@@ -27,7 +27,14 @@ public abstract class Entity : MonoBehaviour
 
     private void Start()
     {
+        Initailized();
+    }
+
+    protected virtual void Initailized()
+    {
         curHP = data.MaxHp;
+        curSpeed = data.MaxSpeed / 2;
+        defense = data.MaxDef;
     }
 
     protected abstract void Dead();
