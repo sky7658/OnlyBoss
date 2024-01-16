@@ -1,37 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ab3ac1b8-e800-4010-b88a-2bb1f4285ab2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/issuestore/3/6/36253af1b942cd010eb2488de29859f3219e04e9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/issuestore/3/e/3e6f40f2d4ae1ea9ffecf1c50563e8cf598dec53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/issuestore/8/2/82665848e3ae0ede5e2682cbc26589790ad4235b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/issuestore/b/3/b312f33de11815411f5ca5ccf17c3e73ecc73b17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/issuestore/c/1/c1b2abcd3d72732cf3bf687bc9080c1357596be9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/issuestore/e/b/eb34bd5248ec66d2806151c643054eaa5cecff1c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/securityhotspotstore/3/6/36253af1b942cd010eb2488de29859f3219e04e9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/securityhotspotstore/3/e/3e6f40f2d4ae1ea9ffecf1c50563e8cf598dec53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/securityhotspotstore/8/2/82665848e3ae0ede5e2682cbc26589790ad4235b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/securityhotspotstore/b/3/b312f33de11815411f5ca5ccf17c3e73ecc73b17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/securityhotspotstore/c/1/c1b2abcd3d72732cf3bf687bc9080c1357596be9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/securityhotspotstore/e/b/eb34bd5248ec66d2806151c643054eaa5cecff1c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/BasicMotions@Idle.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/BasicMotions@Idle.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polygonmaker.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Polygonmaker.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polygonmaker/Polygonmaker - Shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Polygonmaker/Polygonmaker - Shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polygonmaker/Polygonmaker - Shader/HDRP.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Polygonmaker/Polygonmaker - Shader/HDRP.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polygonmaker/Polygonmaker - Shader/HDRP/Shaders HDRP.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polygonmaker/Polygonmaker - Shader/HDRP_2020.2.3f1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Polygonmaker/Polygonmaker - Shader/HDRP_2020.2.3f1.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polygonmaker/Polygonmaker - Shader/HDRP_2020.2.3f1/Shaders HDRP_2020.2.3f1.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polygonmaker/Polygonmaker - Shader/HDRP_2020.3.0f1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Polygonmaker/Polygonmaker - Shader/HDRP_2020.3.0f1.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polygonmaker/Polygonmaker - Shader/HDRP_2020.3.0f1/Shaders HDRP_2020.3.0f1.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polygonmaker/Polygonmaker - Shader/HDRP_2020.3.16f1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Polygonmaker/Polygonmaker - Shader/HDRP_2020.3.16f1.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polygonmaker/Polygonmaker - Shader/HDRP_2020.3.16f1/Shaders HDRP_2020.3.16f1.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polygonmaker/Polygonmaker - Shader/URP.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Polygonmaker/Polygonmaker - Shader/URP.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Polygonmaker/Polygonmaker - Shader/URP/Shaders URP.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/LMS/General/Entity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/LMS/General/Entity.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/685c48cf8f0b48abb797275c046dda6a158a00/7d/fc5c8670/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2a4eUAy4V8zkcg8arVkobnkkGa2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\shng6815\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\shng6815\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\shng6815\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\shng6815\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\shng6815\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\shng6815\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.15f1\Editor\Unity.exe" />
@@ -79,6 +122,9 @@
       <option name="presentableId" value="Default" />
       <updated>1703582304373</updated>
       <workItem from="1703582307863" duration="25000" />
+      <workItem from="1704858336629" duration="7537000" />
+      <workItem from="1704870876432" duration="1341000" />
+      <workItem from="1705134541804" duration="4957000" />
     </task>
     <servers />
   </component>

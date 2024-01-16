@@ -7,6 +7,10 @@ public abstract class Entity : MonoBehaviour
     [SerializeField] private EntitySO data;
     
     public float curSpeed;
+    public float MaxSpeed
+    {
+        get { return data.MaxSpeed; }
+    }
     public float defense;
     private float curHP;
     public float CurHP
