@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using Script.SHY.Monster;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "Chase Decision", menuName = "Scriptable Objects/Monster/Decision SO/Chase")]

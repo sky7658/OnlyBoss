@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using Script.SHY.Monster;
+using UnityEngine;
 
 namespace SHY.Actions
 {

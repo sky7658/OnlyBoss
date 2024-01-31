@@ -1,8 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
+using Script.SHY.General;
 using UnityEngine;
 
-public abstract class Entity : MonoBehaviour
+public abstract class Entity : MonoBehaviour, IDamgeable
 {
     [SerializeField] private EntitySO data;
     
@@ -32,6 +33,12 @@ public abstract class Entity : MonoBehaviour
     private void Start()
     {
         Initailized();
+    }
+    
+    public virtual void TakeHit(float damage, Transform pos)
+    {
+        if (curHP <= 0) return;
+        CurHP -= damage;
     }
 
     protected virtual void Initailized()

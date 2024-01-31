@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using Script.SHY.Monster;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "State", menuName = "Scriptable Objects/State/Monster")]
