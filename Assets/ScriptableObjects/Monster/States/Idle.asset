@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c144c24e65d474c916370f6fd55d59a, type: 3}
+  m_Name: Idle
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: f1051bb79baaaa444a879d03fb3a258e, type: 2}
+  transitions:
+  - decision: {fileID: 11400000, guid: 1e9c57c23af204446b9600a5366ba86a, type: 2}
+    trueState: {fileID: 11400000, guid: b6666dde4eae1794785b783d3dd597b3, type: 2}
+    falseState: {fileID: 11400000, guid: 198b4356271856944b4645b9b6040072, type: 2}
+  - decision: {fileID: 11400000, guid: 9205d360f928fd744930810a1791633d, type: 2}
+    trueState: {fileID: 11400000, guid: c5ec1eb436acb444394db91ac2f0e074, type: 2}
+    falseState: {fileID: 11400000, guid: 198b4356271856944b4645b9b6040072, type: 2}
+  - decision: {fileID: 11400000, guid: 13975451ba6ebc04fac1ae4b885a8d9b, type: 2}
+    trueState: {fileID: 11400000, guid: 31502bc9a4510cb4e9218d8e7e1def1c, type: 2}
+    falseState: {fileID: 11400000, guid: 198b4356271856944b4645b9b6040072, type: 2}

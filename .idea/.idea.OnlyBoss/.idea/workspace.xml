@@ -1,37 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ab3ac1b8-e800-4010-b88a-2bb1f4285ab2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/issuestore/a/9/a9920aeba523b6d1df32329e29f1d047d7b0e962" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/issuestore/a/9/a9920aeba523b6d1df32329e29f1d047d7b0e962" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/issuestore/b/d/bd6e77219ea6f8debd64c1a98ca6d034dfc353f3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/issuestore/b/d/bd6e77219ea6f8debd64c1a98ca6d034dfc353f3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/issuestore/c/b/cb06de77aa58bb0213baf9569bb1c224426cc6bb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/issuestore/c/b/cb06de77aa58bb0213baf9569bb1c224426cc6bb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/issuestore/f/9/f91ccb40e1a723bacddde17b04f6bdcf802f7f05" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/issuestore/f/9/f91ccb40e1a723bacddde17b04f6bdcf802f7f05" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OnlyBoss/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/Monster/Killer/Monsters-Killer.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Monster/Killer/Monsters-Killer.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/Monster/Killer/attack1.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Monster/Killer/attack1.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/Monster/Killer/attack3.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Monster/Killer/attack3.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/Monster/Killer/hit.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Monster/Killer/hit.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SHYTestScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SHYTestScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/LMS/General/Entity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/LMS/General/Entity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SHY/Monster/Actions/ChaseAction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SHY/Monster/Actions/ChaseAction.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SHY/Monster/Actions/IdleAction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SHY/Monster/Actions/IdleAction.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SHY/Monster/Actions/WanderAction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SHY/Monster/Actions/WanderAction.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SHY/Monster/Decisions/ChaseDecision.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SHY/Monster/Decisions/ChaseDecision.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SHY/Monster/Decisions/IdleDecision.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SHY/Monster/Decisions/IdleDecision.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SHY/Monster/Decisions/WanderDecision.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SHY/Monster/Decisions/WanderDecision.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SHY/Monster/Killer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SHY/Monster/Killer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SHY/Monster/Monster.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SHY/Monster/Monster.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SHY/Monster/State/MonAction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SHY/Monster/State/MonAction.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SHY/Monster/State/MonDecision.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SHY/Monster/State/MonDecision.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/SHY/Monster/State/MonStateSO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/SHY/Monster/State/MonStateSO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/Monster/States/Chase.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Monster/States/Chase.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/Monster/States/Idle.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Monster/States/Idle.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects/Monster/States/Wander.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ScriptableObjects/Monster/States/Wander.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/685c48cf8f0b48abb797275c046dda6a158a00/7d/fc5c8670/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2a4eUAy4V8zkcg8arVkobnkkGa2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\shng6815\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\shng6815\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\shng6815\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\shng6815\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\shng6815\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\shng6815\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.15f1\Editor\Unity.exe" />
@@ -79,6 +120,11 @@
       <option name="presentableId" value="Default" />
       <updated>1703582304373</updated>
       <workItem from="1703582307863" duration="25000" />
+      <workItem from="1704858336629" duration="7537000" />
+      <workItem from="1704870876432" duration="1341000" />
+      <workItem from="1705134541804" duration="4957000" />
+      <workItem from="1705648313769" duration="8041000" />
+      <workItem from="1706689805085" duration="2351000" />
     </task>
     <servers />
   </component>
