@@ -6,10 +6,9 @@ namespace LMS.User
     [CreateAssetMenu(fileName = "Idle Action", menuName = "Scriptable Objects/Action SO/Idle")]
     public class IdleAction : PlayerAction
     {
-        public override void Act(Player controller)
+        public override void Enter(Player controller)
         {
-            //controller.SetMoveVector(Vector2.zero);
-            //controller.SetAnimation(Vector2.zero);
+            controller.sprint = 0f;
             controller.SetAnimation("isMove", false);
         }
     }

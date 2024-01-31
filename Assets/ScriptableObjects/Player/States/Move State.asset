@@ -18,3 +18,15 @@ MonoBehaviour:
   - decision: {fileID: 11400000, guid: 764c31d6405f9bf4e86ed7e8ee6dd4dd, type: 2}
     trueState: {fileID: 11400000, guid: 1dd1ff4e2560fed4092064641208bfd2, type: 2}
     falseState: {fileID: 11400000, guid: f10281e0711b9124fbad79a51adf271a, type: 2}
+  - decision: {fileID: 11400000, guid: 9ec7fdbc47786f443a98be744ac7ccbc, type: 2}
+    trueState: {fileID: 11400000, guid: 736a004181045024694d5437e931df43, type: 2}
+    falseState: {fileID: 11400000, guid: f10281e0711b9124fbad79a51adf271a, type: 2}
+  - decision: {fileID: 11400000, guid: 0f9716bb2579fad419b96ff5730df0dd, type: 2}
+    trueState: {fileID: 11400000, guid: 1981291bd77c6aa44b7939bcf97502a7, type: 2}
+    falseState: {fileID: 11400000, guid: f10281e0711b9124fbad79a51adf271a, type: 2}
+  - decision: {fileID: 11400000, guid: 9cc7b3b518bbefb4987b5b4db63693fb, type: 2}
+    trueState: {fileID: 11400000, guid: 7e87706b7a3a08c48a72e76d8baf9711, type: 2}
+    falseState: {fileID: 11400000, guid: f10281e0711b9124fbad79a51adf271a, type: 2}
+  - decision: {fileID: 11400000, guid: a48d8764c25c9ce4abefaa493d25225e, type: 2}
+    trueState: {fileID: 11400000, guid: c30f37c4ed82377409a5c75760c84cc2, type: 2}
+    falseState: {fileID: 11400000, guid: f10281e0711b9124fbad79a51adf271a, type: 2}

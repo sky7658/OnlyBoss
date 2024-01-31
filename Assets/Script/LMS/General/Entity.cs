@@ -5,6 +5,7 @@ using UnityEngine;
 public abstract class Entity : MonoBehaviour
 {
     [SerializeField] private EntitySO data;
+    public EntitySO Data { get; private set; }
     
     public float curSpeed;
     public float defense;
@@ -32,8 +33,10 @@ public abstract class Entity : MonoBehaviour
 
     protected virtual void Initailized()
     {
+        Data = data;
+
         curHP = data.MaxHp;
-        curSpeed = data.MaxSpeed / 2;
+        curSpeed = data.MaxSpeed * 2 / 3;
         defense = data.MaxDef;
     }
 

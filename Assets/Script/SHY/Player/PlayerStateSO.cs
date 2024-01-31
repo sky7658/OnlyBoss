@@ -15,13 +15,9 @@ public class PlayerStateSO : ScriptableObject
         checkTransitions(controller);
     }
 
-    private void DoActions(Player controller)
-    {
-        for (int i = 0; i < actions.Length; i++)
-        {
-            actions[i].Act(controller);
-        }
-    }
+    private void DoEnters(Player controller) { for (int i = 0; i < actions.Length; i++) actions[i].Enter(controller); }
+    private void DoActions(Player controller) { for (int i = 0; i < actions.Length; i++) actions[i].Act(controller); }
+    private void DoExits(Player controller) { for (int i = 0; i < actions.Length; i++) actions[i].Exit(controller); }
 
     private void checkTransitions(Player controller)
     {
@@ -29,8 +25,18 @@ public class PlayerStateSO : ScriptableObject
         {
             bool decisionSucceeded = transitions[i].decision.Decide(controller);
 
-            if (decisionSucceeded) controller.TransitionToState(transitions[i].trueState);
-            else controller.TransitionToState(transitions[i].falseState);
+            if (decisionSucceeded)
+            {
+                DoExits(controller);
+                transitions[i].trueState.DoEnters(controller);
+                controller.TransitionToState(transitions[i].trueState);
+            }
+            else
+            {
+                if (transitions[i].falseState.transitions.Length != 0) DoExits(controller);
+                transitions[i].falseState.DoEnters(controller);
+                controller.TransitionToState(transitions[i].falseState);
+            }
         }
     }
 }
