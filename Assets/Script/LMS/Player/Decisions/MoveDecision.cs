@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.ShortcutManagement;
 using UnityEngine;
 
 namespace LMS.User
@@ -11,8 +12,8 @@ namespace LMS.User
         {
             float x = Input.GetAxis("Horizontal");
             float z = Input.GetAxis("Vertical");
-            if ((x != 0 || z != 0) && Input.anyKey) return true;
-            return false;
+
+            return (x != 0 || z != 0) && controller.IsControllerKey("MoveKeys") && !controller.isAttack && (!Input.GetKey(KeyCode.LeftShift) || controller.IsControllerKey("Backs")) && !controller.IsLand && !controller.isHit;
         }
     }
 }

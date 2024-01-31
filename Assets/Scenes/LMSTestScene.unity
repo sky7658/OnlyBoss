@@ -391,7 +391,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1628232818}
   m_LocalRotation: {x: 0.2872561, y: -0, z: -0, w: 0.95785385}
-  m_LocalPosition: {x: 0, y: 13.08, z: -15.73}
+  m_LocalPosition: {x: 0.28, y: 5.7, z: -4.53}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -409,6 +409,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 374645434250f854bb0c88ad9f67a0b5, type: 2}
+    - target: {fileID: 636898436775844132, guid: 0e6fdabfa55fddd4ba0317d3904e636d, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6160163122814065124, guid: 0e6fdabfa55fddd4ba0317d3904e636d, type: 3}
       propertyPath: m_Name
       value: Cyborg_Ninja_HelmetOff_1
@@ -423,7 +427,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6788784000648037214, guid: 0e6fdabfa55fddd4ba0317d3904e636d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.721
       objectReference: {fileID: 0}
     - target: {fileID: 6788784000648037214, guid: 0e6fdabfa55fddd4ba0317d3904e636d, type: 3}
       propertyPath: m_LocalPosition.z
@@ -473,7 +477,7 @@ GameObject:
   - component: {fileID: 2135849777}
   m_Layer: 0
   m_Name: Plane
-  m_TagString: Untagged
+  m_TagString: Finish
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

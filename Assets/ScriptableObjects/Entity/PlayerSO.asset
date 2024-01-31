@@ -18,4 +18,4 @@ MonoBehaviour:
   originDef: 100
   originAtk: 100
   maxAtk: 100
-  maxSpeed: 100
+  maxSpeed: 20
